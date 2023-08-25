@@ -6,7 +6,7 @@ $ git clone https://github.com/rohit-marathe/python-docker.git
 # If you are using pip or pip3
 $ pip install -r requirements.txt
 
-# If you are using python or python3
+# Run the app using python or python3 
 $ python app.py  
 
 ```
