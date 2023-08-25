@@ -3,10 +3,10 @@
 $ git clone https://github.com/rohit-marathe/python-docker.git
 
 # Install dependencies
-# If you are using pip
+# If you are using pip or pip3
 $ pip install -r requirements.txt
 
-# If you are using Yarn
+# If you are using python or python3
 $ python app.py  
 
 ```
